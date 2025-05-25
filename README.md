@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal
 
-<!--
-**Vision-99/Vision-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate from NSIT Delhi with a strong passion for **problem-solving**, **competitive programming**, and **system-level thinking**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love building **efficient algorithms**, optimizing code, and solving real-world challenges.
+- 🌱 Actively learning **system design** and **backend development**.
+- 🤝 Open to opportunities that let me solve tough problems and grow as an engineer.
+
+---
+
+## 🏆 Competitive Programming
+
+- 🔵 **LeetCode Knight**  
+  - **Rating**: 2042+  
+  - **Problems Solved**: 1400+  
+  - **Top Rank**: Global Rank **8** in Biweekly  
+  - [LeetCode Profile →](https://leetcode.com/u/Lucifer_72/)
+
+- 🔷 **Codeforces Expert**  
+  - **Current Rating**: 1665  
+  - [Codeforces Profile →](https://codeforces.com/profile/Vision_99)
+
+- 🥇 **Top Global Ranks**  
+  - **Rank 8** – LeetCode Biweekly  
+  - **Rank 1 & 28** – CodeChef
+
+---
+
+## 📊 Coding Activity
+
+![Coding Stats](https://raw.githubusercontent.com/your-username/your-repo/main/assets/coding-stats.png)
+
+> _This includes combined statistics from Codeforces and LeetCode (generated using custom templates)._
+
+---
+
+## 🧠 Projects & Research
+
+- 🧪 **IEEE Research Paper**  
+  _"Depression Detection Using Wearable Sensors and Machine Learning"_  
+  - Published at an IEEE conference.
+
+- 🏢 **Samsung Internship**  
+  - Summer internship focused on product engineering and backend systems.
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: [your_email@example.com]  
+- 💼 LinkedIn: [your_linkedin_url]  
+- 🧑‍💻 GitHub: [your_github_url]
+
+---
+
+_“The best way to predict the future is to invent it.” – Alan Kay_
