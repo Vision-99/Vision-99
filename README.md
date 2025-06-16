@@ -34,8 +34,7 @@
   _"Depression Detection Using Wearable Sensors and Machine Learning"_  
   - Published at an IEEE conference.
 
-- 🏢 **Samsung Internship**  
-  - Summer internship focused on product engineering and backend systems.
+
 
 - 🔭 I’m currently working on **Leetcode Premium Clone**
 
